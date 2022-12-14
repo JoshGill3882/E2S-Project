@@ -1,5 +1,15 @@
 # E2S Team 5
 
+## Introduction
+
+This project was created as part of a 3rd year group Client Project during the Applied Software Engineering BSc programme at Cardiff University, and had the following contributors:
+
+* Josh Gill - gillj8@cardiff.ac.uk / joshgill2013@gmail.com
+* Haroon Mohammed - mohammedhz@cardiff.ac.uk
+* Marwa Omar - omarfm@cardiff.ac.uk
+* Ahmad Shahin - shahina@cardiff.ac.uk
+* Sami Ahmed - ahmedms4@cardiff.ac.uk
+
 ## Running the Project
 
 To run the project, please follow the following steps:
@@ -25,11 +35,3 @@ During development, we made the following assumptions
   * The Top-Left position (A1) is empty
   * Headers for data sources must be on the first line (B1 onwards on line 1)
   * Date and Time of data is on the left hand side (column A), in the following format: "DD/MM/YYYY HH:mm"
-
-## Contributors
-
-* Josh Gill - gillj8@cardiff.ac.uk
-* Haroon Mohammed - mohammedhz@cardiff.ac.uk
-* Marwa Omar - omarfm@cardiff.ac.uk
-* Ahmad Shahin - shahina@cardiff.ac.uk
-* Sami Ahmed - ahmedms4@cardiff.ac.uk
