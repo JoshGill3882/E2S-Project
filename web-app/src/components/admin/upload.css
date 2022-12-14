@@ -1,0 +1,36 @@
+.upload-box{
+    width: 50%;
+    margin: auto;
+    padding: 2%;
+    display: flex;
+    margin-top: 20px;
+    border-radius: 10px;
+    align-items: center;
+    flex-direction: column;
+    border: 1px solid gainsboro;
+    box-shadow: 0 0 10px 1px rgb(143, 142, 142);
+    background-color: white;
+    margin-bottom: 1rem;
+}
+.upload{
+    height: 80vh;
+}
+.upload-box > form > label{
+    margin-bottom: 2%;
+}
+.uploadButton{
+    padding: 10px;
+    width: 150px;
+    font-size: 15px;
+    text-align: center;
+    color: white;
+    background-color: #018ed0 ;
+    border-radius: 10px;
+    border-color: #018ed0;
+    margin: 5%;
+    transition: 0.4s;
+}
+.uploadButton:hover{
+    background-color: #1b4c7d ;
+    transition: 0.4s;
+  }
